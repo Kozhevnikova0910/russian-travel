@@ -1,21 +1,10 @@
 .header__language {
-  background-color: transparent;
-  border: 0;
-  color: inherit;
+  display: block;
   font-weight: 400;
-}
-
-.header__language:first-child {
-  margin-right: 18px;
-  text-decoration: underline;
-}
-
-
-@media (min-width: 425px) {
-  .header__language {
-    font-size: 24px;
-    line-height: 28px;
-  }
+  font-size: 24px;
+  line-height: 28px;
+  color: inherit;
+  cursor: pointer;
 }
 
 @media (max-width: 425px) {

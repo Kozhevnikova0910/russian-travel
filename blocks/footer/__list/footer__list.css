@@ -8,5 +8,6 @@
   .footer__list {
     grid-template-columns: 1fr;
     margin-bottom: 48px;
+    gap: 0;
   }
 }

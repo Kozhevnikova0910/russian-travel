@@ -3,12 +3,12 @@
 @import "../blocks/body/body.css";
 @import "../blocks/page/page.css";
 @import "../blocks/link/link.css";
-@import "../blocks/link/_condition/link_condition_active.css";
 @import "../blocks/content/content.css";
 @import "../blocks/header/header.css";
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__languages/header__languages.css";
 @import "../blocks/header/__language/header__language.css";
+@import "../blocks/header/__language/_condition/header__language_condition_active.css";
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
 @import "../blocks/lead/__subtitle/lead__subtitle.css";
@@ -33,7 +33,6 @@
 @import "../blocks/place/__paragraph/place__paragraph.css";
 @import "../blocks/cover/cover.css";
 @import "../blocks/cover/__link/cover__link.css";
-@import "../blocks/cover/__image/cover__image.css";
 @import "../blocks/cover/__title/cover__title.css";
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/footer/footer.css";

@@ -8,7 +8,7 @@
 @import "../blocks/header/__logo/header__logo.css";
 @import "../blocks/header/__languages/header__languages.css";
 @import "../blocks/header/__language/header__language.css";
-@import "../blocks/header/__language/_condition/header__language_condition_active.css";
+@import "../blocks/header/__language/_active/header__language_active.css";
 @import "../blocks/lead/lead.css";
 @import "../blocks/lead/__title/lead__title.css";
 @import "../blocks/lead/__subtitle/lead__subtitle.css";
